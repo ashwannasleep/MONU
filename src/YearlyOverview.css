@@ -1,0 +1,24 @@
+.yearly-wrapper {
+    background-color: #F7F5EF;
+  }
+  
+  .yearly-subtitle {
+    color: #5A5A5A;
+    font-style: italic;
+    font-size: 1.1rem;
+  }
+  
+  .goal-input {
+    border: none;
+    border-bottom: 1px solid #999;
+    background: transparent;
+  }
+  
+  .goal-input::placeholder {
+    color: #aaa;
+  }
+  
+  input[type="checkbox"] {
+    accent-color: #555;
+  }
+  
