@@ -4,12 +4,12 @@ import ChoosePage from './ChoosePage'
 import BucketList from './BucketList'
 import YearlyOverview from './YearlyOverview'
 import LoginWithGoogle from './LoginWithGoogle'
+import DailyPlan from './DailyPlan'
+import FutureVision from './FutureVision'
+import MonthlyPlanner from './MonthlyPlanner';
+import HabitTracker from './HabitTracker';
 
-// Placeholder components
-const MonthlyPlanner = () => <div>Monthly Planner Placeholder</div>
-const DailyPlan = () => <div>Daily Plan Placeholder</div>
-const HabitTracker = () => <div>Habit Tracker Placeholder</div>
-const FutureVision = () => <div>Future Vision Placeholder</div>
+
 
 export default function App() {
   return (
